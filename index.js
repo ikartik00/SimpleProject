@@ -6,3 +6,8 @@ function hello (){
 function Hyy(){
     console.log("Hyy");
 }
+function Namaste(){
+    console.log("Namaste");
+}
+
+const b = 100;
