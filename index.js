@@ -16,3 +16,4 @@ const friendName = "Shivam";
 const anotherName = "Prateek";
 const namee = "hello";
 const motherName = "Usha Rathore";
+const father = "Mr dileep rathore";
