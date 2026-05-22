@@ -11,3 +11,4 @@ function Namaste(){
 }
 
 const b = 100;
+const name = "Kartik";
