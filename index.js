@@ -14,3 +14,4 @@ const b = 100;
 const name = "Kartik";
 const friendName = "Shivam";
 const anotherName = "Prateek";
+const namee = "hello";
