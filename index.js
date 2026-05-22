@@ -21,3 +21,6 @@ const bonjour = "Bonjour";
 const dadiName = "Meena Bai Rathore"
 const bye = "bye";
 const hello = "Hello";
+const namaste = "namaste";
+
+const jaiShreeram = "jai";
