@@ -17,6 +17,7 @@ const anotherName = "Prateek";
 const namee = "hello";
 const motherName = "Usha Rathore";
 const father = "Mr dileep rathore";
+const bonjour = "Bonjour";
 const dadiName = "Meena Bai Rathore"
 const bye = "bye";
 const hello = "Hello";
