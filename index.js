@@ -9,3 +9,5 @@ function Hyy(){
 function Namaste(){
     console.log("Namaste");
 }
+
+const b = 100;
