@@ -18,3 +18,4 @@ const namee = "hello";
 const motherName = "Usha Rathore";
 const father = "Mr dileep rathore";
 const dadiName = "Meena Bai Rathore"
+const hello = "Hello";
